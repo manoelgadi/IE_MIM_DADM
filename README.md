@@ -2,7 +2,7 @@
 
 **Course:** Data Analytics for Decision Making
 **Area:** Operations and Business Analytics
-**Program:** Master in Management (MIM-EN ENE-2025 J-2)
+**Program:** Master in Managemen
 **Sessions:** 17
 **Term:** Term 1
 **Category:** Regular
